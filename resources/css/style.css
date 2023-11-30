@@ -4,8 +4,12 @@ body {
     font-family: Verdana, Helvetica, Sans-serif;
     margin: auto;
   }
-  
-  .center {
+
+  h1 {
+    margin: auto;
+  }
+
+  center {
     margin: auto;
     width: 50%;
     border: 3px solid white;
@@ -16,5 +20,10 @@ body {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    
+  }
+
+  video {
+    margin-left: auto;
+    margin-right: auto;
   }
